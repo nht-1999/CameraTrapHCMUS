@@ -1,5 +1,9 @@
 data
 coco
 final_output
-tensorpack
-yolo
+tensorpack/examples/FasterRCNN/dataset/ena24_splitted_frcnn
+yolo/ena24_splitted_yolo
+yolo/datasets
+yolo/wandb
+yolo/ena24_splitted_yolo.zip
+Models/ImageNet-R50-AlignPadding.npz
