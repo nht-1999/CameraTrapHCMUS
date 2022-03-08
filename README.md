@@ -51,7 +51,7 @@ model: efficientnet_b0 (imagenet pretrained)
 
 image augmentation: traditional image augmentation + CLAHE + gray scale + cutout + mixup + label smoothing
 
-# Thực tập tốt nghiệp HCMUS 2022
+# Thực tập dự án tốt nghiệp HCMUS 2022
 
 Code bài báo `/`
 
